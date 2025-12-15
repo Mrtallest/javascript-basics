@@ -1,3 +1,4 @@
 function sayHello() {
-    alert("welcome to javascript basics 🚀");
+    document.querySelector('h1').innerText = 
+    "you just wrote real javascript 💻🔥";
 }
